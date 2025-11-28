@@ -5,7 +5,7 @@ Welcome to the NexaFlow frontend team! This guide will help you get started.
 ## 🛠️ Development Environment Setup
 
 ### Required Tools
-- Node.js (v18 or higher)
+- Node.js v18.17.0 (production version)
 - VS Code or your preferred IDE
 - Git
 
@@ -33,8 +33,8 @@ Welcome to the NexaFlow frontend team! This guide will help you get started.
 
 ## 📚 Resources
 
-- [Component Library](https://docs.nexaflow.com/components)
-- [Design System](https://figma.com/nexaflow-design)
+- [Component Library - Coming Soon]
+- [Design System - Coming Soon]
 
 ---
 
