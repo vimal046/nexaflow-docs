@@ -6,7 +6,7 @@
 
 This repository contains all internal engineering documentation for NexaFlow Technologies, including:
 
-- Onboarding guides
+- Developer Onboarding Guides
 - API references
 - Deployment procedures
 - Coding standards
